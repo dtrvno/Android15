@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Order15</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_order15_main">Order15MainActivity</string>
+    <string name="string2">2</string>
+    <string name="string1">1</string>
+    <string name="stringempty"></string>
+    <string name="string3">3</string>
+
+</resources>
