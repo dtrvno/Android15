@@ -10,8 +10,7 @@ import android.graphics.RectF;
 import android.util.Log;
 
 public class ImageBoard {
-	int row=6;
-	
+	int row=6;	
 	int column=5; 
 	 private static final String DEBUG_TAG="TestDebug";
 	 private ParisImage paris = null;
